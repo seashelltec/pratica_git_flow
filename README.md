@@ -3,7 +3,7 @@ Practica git
  
 
  ## Bienvenidos a mi primera branch 
-#### Esta es la rama development
+#### Esta es la rama develoment
 
 
 
