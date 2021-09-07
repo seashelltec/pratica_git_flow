@@ -2,7 +2,7 @@
 Practica git
  
 
- ## Bienvenidos a mi primera branch 
+ ## Bienvenidos a mi primera branch main 
 
 
 
